@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/CSharpDemos/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers
+/Users/Heidi/workspace/CSharpDemos/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.deps.json
+/Users/Heidi/workspace/CSharpDemos/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.runtimeconfig.json
+/Users/Heidi/workspace/CSharpDemos/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.runtimeconfig.dev.json
+/Users/Heidi/workspace/CSharpDemos/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.dll
+/Users/Heidi/workspace/CSharpDemos/DiggersAndFliers/bin/Debug/netcoreapp3.0/DiggersAndFliers.pdb
+/Users/Heidi/workspace/CSharpDemos/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.csprojAssemblyReference.cache
+/Users/Heidi/workspace/CSharpDemos/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/CSharpDemos/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.AssemblyInfo.cs
+/Users/Heidi/workspace/CSharpDemos/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.dll
+/Users/Heidi/workspace/CSharpDemos/DiggersAndFliers/obj/Debug/netcoreapp3.0/DiggersAndFliers.pdb
